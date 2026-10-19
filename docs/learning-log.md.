@@ -1,0 +1,20 @@
+# Job Pilot Agent — Development Learning Log
+
+## Project Goal
+Build an open-source, cloud-based AI agent that discovers jobs, tailors resumes, checks ATS readiness, and supports human-approved or automated applications.
+
+## Step 1 — Git & GitHub
+
+### Concepts Learned
+- Repository: The home for project files and version history.
+- Branch: An isolated line of development.
+- Commit: A recorded snapshot of changes.
+- Pull Request: A proposal to review and merge changes.
+- Merge: Incorporating changes from one branch into another.
+
+## Development Principles
+- Learn by building.
+- Keep personal information and API keys private.
+- Prioritize free and open-source tools.
+- Test changes before merging into main.
+- Keep application automation transparent and user-controlled.
